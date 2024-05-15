@@ -1,4 +1,4 @@
-# Landing page with VanillaJS
+# Landing page
 
 ## Resources and Tools
 
